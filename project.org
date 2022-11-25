@@ -1,0 +1,64 @@
+* Project Overview
+
+The objective of this project is to use machine learning to analyze the data of people who were on board the Titanic and understand if there are any patterns in the characteristics of the people who survived the sinking of the ship. We will then add our own characteristics and those of close friends to the algorithms we develop to try and determine if we ourselves would have survived the ordeal; of course, we can’t actually go back in time to see if we actually could, so this latter part is largely speculative and more of an amusing exercise.
+
+* Historical background
+
+The RMS Titanic was a British passenger liner that sank on its maiden voyage on 15 April 1912, while it was traveling from Southampton, UK, to New York City, United States. The ship collided with an iceberg which caused the seams of the hull to buckle and allow water to rush inside. Due to the ill-preparedness and lack of safety equipment, more than 1,500 passengers, out of the 2,224 passengers, died during the accident. The story of the Titanic is well known and has inspired many artistic works, with James Cameron’s 1998 film probably being the most famous. 
+
+* Data
+
+** Overview
+
+The data we are using for our project was obtained from Kaggle’s “Titanic – Machine Learning from Disater” competition. The datasets we obtained contain physical characteristics and socioeconomical information from the passengers aboard the Titanic. We will start our analysis with two data sets: the first one, called ‘train.csv’ is the data that we will use to train our algorithms, and reveals whether the people included survived or not. The second dataset, called “test.csv” does not include whether people survived or not, and is what we will use to predict and compare the accuracy of our algorithms.
+
+[ ] We should have the “answers” of these training data people.
+
+** Analysis
+
+/We should include here what the data includes, and whether the data is tidy or not/
+
+* Algorithms
+
+/This will be a description of the algorithms that we are using for our project/
+
+/List of the algorithms where are using/
+
+** Decision Tree
+
+*** Overview
+*** Training
+*** Predicting
+
+** SVM
+
+*** Overview
+*** Training
+*** Predicting
+
+** KNN
+*** Overview
+*** Training
+*** Predicting
+
+** Logistic Regression
+*** Overview
+*** Training
+*** Predicting
+
+/Include here the code and results. This part has to be done person by person, I think/
+
+** Predicting
+
+/Same here but adding the second data set/
+
+* Results
+
+/
+
+* Would we have survived?
+
+* Conclusions
+
+* References
+https://www.kaggle.com/competitions/titanic/overview
